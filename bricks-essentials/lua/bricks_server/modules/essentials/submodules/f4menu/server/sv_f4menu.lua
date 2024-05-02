@@ -1,0 +1,5 @@
+util.AddNetworkString( "BRS.Net.OpenF4" )
+hook.Add( "ShowSpare2", "BRS.ShowSpare2_OpenF4", function( ply ) 
+	net.Start( "BRS.Net.OpenF4" )
+	net.Send( ply )
+end )

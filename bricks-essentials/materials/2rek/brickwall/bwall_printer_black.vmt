@@ -1,0 +1,25 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "2rek/brickwall/bwall_printer"
+	"$bumpmap" "2rek/brickwall/bwall_printer_n"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[.3 .2 .1]"
+	
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.01 .01 .01]"		
+	
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" "1"	
+
+	
+	"$color" "{255 255 255}"
+	"$blendtintbybasealpha" "1"
+
+}

@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "2rek/brickwall/bwall_rock_1_phys"
+	"$translucent" "1"
+	"$model" "1"
+}

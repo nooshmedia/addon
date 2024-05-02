@@ -1,0 +1,20 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "2rek/brickwall/bwall_armory"
+	"$bumpmap" "2rek/brickwall/bwall_armory_n"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "1"
+	"$phongfresnelranges" "[.6 .6 .6]"
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.02 .02 .02]"		
+		
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "1"
+
+	"$nocull" "1"
+}
